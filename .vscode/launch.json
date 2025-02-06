@@ -5,7 +5,7 @@
             "name": "Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/bin/program.exe",
+            "program": "${workspaceFolder}/bin/Titan Quest Anniversary Edition - Find and attack enemy.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
